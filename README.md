@@ -7,7 +7,7 @@
 ## Get
 
 ``` bash
-go get -u -v github.com/LyricTian/queue
+go get -u -v github.com/shanzhu83/queue
 ```
 
 ## Usage
